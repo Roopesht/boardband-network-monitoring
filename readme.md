@@ -1,35 +1,7 @@
 # Pi-hole Enhanced Monitoring System
 
-A comprehensive monitoring and analytics dashboard for Pi-hole network-wide ad blocking with enhanced domain categorization, device tracking, and automated reporting.
+**Household Internet Monitoring Dashboard** - Complete visibility into your family's internet usage with real-time analytics, device tracking, content categorization, and automated reporting for responsible network management.RetryClaude does not have the ability to run the code it generates yet.Claude can make mistakes. Please double-check responses.
 
-## ⚠️ IMPORTANT NOTICE
-
-**🏠 HOME USE ONLY - READ BEFORE INSTALLATION**
-
-This Pi-hole monitoring system is designed and intended **exclusively for personal home networks**. 
-
-### ✅ Appropriate Use:
-- Personal home broadband connections
-- Private residential networks
-- Home lab environments
-- Personal learning and development
-
-### ❌ DO NOT USE FOR:
-- **Corporate/Business networks** - May violate company IT policies and security protocols
-- **Public WiFi networks** - Could interfere with legitimate network services and violate terms of service
-- **Shared accommodation networks** - May affect other users without consent
-- **Educational institution networks** - Often violates acceptable use policies
-- **Any network you don't own or have explicit permission to modify**
-
-### Legal and Ethical Considerations:
-- Only deploy on networks you own or have explicit written permission to modify
-- Respect network policies and terms of service
-- Be aware of local laws regarding network monitoring and DNS modification
-- Consider privacy implications for other network users
-
-**By using this software, you acknowledge that you are solely responsible for ensuring compliance with all applicable laws, regulations, and network policies.**
-
----
 
 ## 🚀 Features
 
@@ -427,3 +399,32 @@ For issues and questions:
 2. Review log files for error messages
 3. Open an issue on the project repository
 4. Consult Pi-hole documentation for Pi-hole specific issues
+
+## ⚠️ IMPORTANT NOTICE
+
+**🏠 HOME USE ONLY - READ BEFORE INSTALLATION**
+
+This Pi-hole monitoring system is designed and intended **exclusively for personal home networks**. 
+
+### ✅ Appropriate Use:
+- Personal home broadband connections
+- Private residential networks
+- Home lab environments
+- Personal learning and development
+
+### ❌ DO NOT USE FOR:
+- **Corporate/Business networks** - May violate company IT policies and security protocols
+- **Public WiFi networks** - Could interfere with legitimate network services and violate terms of service
+- **Shared accommodation networks** - May affect other users without consent
+- **Educational institution networks** - Often violates acceptable use policies
+- **Any network you don't own or have explicit permission to modify**
+
+### Legal and Ethical Considerations:
+- Only deploy on networks you own or have explicit written permission to modify
+- Respect network policies and terms of service
+- Be aware of local laws regarding network monitoring and DNS modification
+- Consider privacy implications for other network users
+
+**By using this software, you acknowledge that you are solely responsible for ensuring compliance with all applicable laws, regulations, and network policies.**
+
+---
