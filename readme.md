@@ -1,7 +1,6 @@
 # Pi-hole Enhanced Monitoring System
 
-**Household Internet Monitoring Dashboard** - Complete visibility into your family's internet usage with real-time analytics, device tracking, content categorization, and automated reporting for responsible network management.RetryClaude does not have the ability to run the code it generates yet.Claude can make mistakes. Please double-check responses.
-
+**Household Internet Monitoring Dashboard** - Complete visibility into your family's internet usage with real-time analytics, device tracking, content categorization, and automated reporting for responsible network management.
 
 ## 🚀 Features
 
