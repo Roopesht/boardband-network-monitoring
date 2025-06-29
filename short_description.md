@@ -1,6 +1,6 @@
 ## 📝 Project Overview
 
-**Pi-hole Enhanced Monitoring System** - A comprehensive analytics and monitoring dashboard for Pi-hole network-wide ad blocking.
+**Household Internet Monitoring Dashboard** - Complete visibility into your family's internet usage with real-time analytics, device tracking, content categorization, and automated reporting for responsible network management.RetryClaude does not have the ability to run the code it generates yet.Claude can make mistakes. Please double-check responses.
 
 ### Key Features:
 - 🖥️ **Real-time Web Dashboard** - Monitor Pi-hole activity with interactive charts and statistics
